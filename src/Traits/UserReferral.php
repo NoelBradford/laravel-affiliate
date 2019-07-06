@@ -6,7 +6,7 @@ namespace noelbradford\Referral\Traits;
 
 use Illuminate\Database\Eloquent\Builder;
 use Illuminate\Support\Facades\Cookie;
-
+use DB;
 
 trait UserReferral
 {
